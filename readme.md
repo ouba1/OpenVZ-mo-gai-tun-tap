@@ -10,7 +10,7 @@ Ram >> 64M
 
 Debian or Ubuntu
 适用于 单网卡（单 IP） 服务器：
-``` 
+``` bash
 wget https://github.com/tcp-nanqinlang/lkl-rinetd/releases/download/1.1.0/tcp_nanqinlang-rinetd-debianorubuntu.sh
 ``` 
 bash tcp_nanqinlang-rinetd-debianorubuntu.sh
