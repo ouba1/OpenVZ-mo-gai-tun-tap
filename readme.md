@@ -12,7 +12,7 @@ Debian or Ubuntu
 适用于 单网卡（单 IP） 服务器：
 ``` bash
 wget https://github.com/tcp-nanqinlang/lkl-rinetd/releases/download/1.1.0/tcp_nanqinlang-rinetd-debianorubuntu.sh
-``` 
+``` bash
 bash tcp_nanqinlang-rinetd-debianorubuntu.sh
 
 适用于 多网卡（多 IP） 服务器，会为所有网卡（所有 IP）提供加速：
