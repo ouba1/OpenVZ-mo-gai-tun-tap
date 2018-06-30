@@ -1,5 +1,5 @@
 OpenVZ 魔改 BBR - lkl-rinetd 一键脚本
-
+1.1.0版本
 开始使用
 要求以下：
 
@@ -16,17 +16,17 @@ wget https://raw.githubusercontent.com/ouba1/OpenVZ-mo-gai-tun-tap/master/tcp_na
 bash tcp_nanqinlang-rinetd-debianorubuntu.sh
 
 适用于 多网卡（多 IP） 服务器，会为所有网卡（所有 IP）提供加速：
-wget https://github.com/tcp-nanqinlang/lkl-rinetd/releases/download/1.1.0/tcp_nanqinlang-rinetd-debianorubuntu-multiNIC.sh
+wget https://raw.githubusercontent.com/ouba1/OpenVZ-mo-gai-tun-tap/master/tcp_nanqinlang-rinetd-debianorubuntu-multiNIC.sh
 bash tcp_nanqinlang-rinetd-debianorubuntu-multiNIC.sh
 
 CentOS 7
 和上面一样，也分 单网卡 和 多网卡 版本：
 # 单网卡
-wget https://github.com/tcp-nanqinlang/lkl-rinetd/releases/download/1.1.0/tcp_nanqinlang-rinetd-centos.sh
+wget https://raw.githubusercontent.com/ouba1/OpenVZ-mo-gai-tun-tap/master/tcp_nanqinlang-rinetd-centos.sh
 bash tcp_nanqinlang-rinetd-centos.sh
 
 # 多网卡
-wget https://github.com/tcp-nanqinlang/lkl-rinetd/releases/download/1.1.0/tcp_nanqinlang-rinetd-centos-multiNIC.sh
+wget https://raw.githubusercontent.com/ouba1/OpenVZ-mo-gai-tun-tap/master/tcp_nanqinlang-rinetd-centos-multiNIC.sh
 bash tcp_nanqinlang-rinetd-centos-multiNIC.sh
 
 使用说明
